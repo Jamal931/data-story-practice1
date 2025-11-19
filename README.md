@@ -2,7 +2,7 @@
 DataVizForAll.org story template using modified Bootstrap
 
 ## Live view (replace with your own published link in Settings > Pages)
-https://datavizforall.github.io/dataviz-story-template/
+https://jamal931.github.io/data-story-practice1/
 
 ## Instructions
 Read steps inside the `index.html` file
